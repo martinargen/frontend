@@ -1,0 +1,19 @@
+div#banner1.row{
+    height: auto;
+}
+.row #banner1{
+    margin: 0 !important;
+    padding: 0 !important;
+    background-color: aqua;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;
+    width: 100%;
+    overflow-x: hidden;
+    
+}
+
+#banner1{
+    height: 30px;
+    border-radius: 90% 90% 0 0;
+}

@@ -1,0 +1,39 @@
+.row {
+    margin: 0;
+    padding: 0;
+    background-image: url(../../../assets/fondo5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    overflow-x: hidden;
+    height: auto;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+#fotodeperfil {
+    width: 150px;
+    border-radius: 100%;
+    box-shadow: 3px 3px 3px rgb(99, 186, 245);
+    cursor: pointer;
+}
+
+#nombre {
+    font-weight: bold;
+    margin: 15% 0 0 0;
+}
+
+
+
+.col-xs-12, .col-sm-6, .col-md-6, .col-lg-6, span {
+    margin: 0 0 0 30px;
+    text-align: left;
+}
+
+.col-xs-12, .col-sm-6, .col-md-6, .col-lg-6, #fotodeperfil {
+        margin: 0 0 20px 20px;
+    }
+

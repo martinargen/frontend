@@ -1,0 +1,13 @@
+.row{
+    margin: 0;
+    padding: 0;
+    background-image: url(../../../assets/fondo2.png);
+    background-color: #4d4e4e; /* Color de fondo */
+    background-blend-mode: lighten;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: cover;    
+    width: 100%;
+    overflow-x: hidden;  
+}
+

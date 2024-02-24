@@ -1,0 +1,42 @@
+.row{
+    margin: 0;
+    padding: 0;
+    background-image: url(../../../assets/fondo2.png);
+    background-repeat: no-repeat;    
+    background-size: cover; 
+    width: 100%;  
+    overflow-x: hidden;
+}
+
+.bg-image-vertical {
+    position: relative;
+    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: right center;
+    background-size: auto 100%;
+    }
+    
+    @media (min-width: 1025px) {
+    .h-custom-2 {
+    height: 100%;
+    }
+    }
+
+  a.text-muted{
+    text-decoration: none;
+    font-size: 20px;
+    color: aqua !important;
+  }
+
+#img-pellico{
+    margin: 0 0 0 0;
+    width: 100%;
+}
+
+.mt-5 {
+    margin-top: 1rem !important;
+}
+
+.mb-0{
+    margin: 100px 0 0 0 !important;
+}
